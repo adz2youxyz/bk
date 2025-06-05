@@ -11,7 +11,7 @@ java -cp "sample.jar;dependecy.jar" com.sample.ClassName
 
 java -cp <jar_name.jar:libs/*> com.test.App
 
-
+https://note4you.xyz/epic1.html
 
 103.182.19.46:8964:tetneo90:tetneo90
 
