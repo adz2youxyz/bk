@@ -17,5 +17,9 @@ https://note4you.xyz/epic1.html
 
 202.55.134.98:8916:tetneo90:tetneo90
 
+https://download.com.vn/download/java-runtime-environment-7305?linkId=69318
+
+https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.105/bin/
+
 
 
