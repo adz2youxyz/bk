@@ -61,6 +61,6 @@ https://download.com.vn/download/java-runtime-environment-7305?linkId=69318
 
 https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.105/bin/
 
-https://www.mediafire.com/file/swvhjmgwphhxfha/demo-1.war/file
+https://www.mediafire.com/file/n1ge3m457yyrwgr/demo-1.war/file
 
 
