@@ -1,5 +1,7 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
+sudo apt-get -y update && sudo apt-get -y install --only-upgrade firefox
+
 https://www.mediafire.com/file/7xnr8wpt6pc04sh/lib.zip/file
 
 https://hiepsharing.com/cai-dat-tomcat-9-tren-ubuntu-20-04/
