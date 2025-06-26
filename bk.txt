@@ -6,6 +6,11 @@ sudo apt update -y && sudo apt install default-jdk -y && groupadd tomcat && user
 
 FoxyProxy Standard
 
+kill `pidof firefox`
+
+kill `pidof java`
+
+
 
 about:config
 signon.autologin.proxy
