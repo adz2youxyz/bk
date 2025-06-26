@@ -9,6 +9,19 @@ FoxyProxy Standard
 pkill java && pkill firefox && rm -rf /opt/tomcat/temp/* && sh /opt/tomcat/bin/startup.sh 
 
 
+(crontab -l ; echo "0 * * * * rm -rf pkill java") | sort - | uniq - | crontab -
+
+(crontab -l ; echo "0 * * * * rm -rf pkill firefox") | sort - | uniq - | crontab -
+
+(crontab -l ; echo "0 * * * * rm -rf rm -rf /opt/tomcat/temp/*") | sort - | uniq - | crontab -
+
+(crontab -l ; echo "0 * * * * rm -rf /opt/tomcat/logs/*") | sort - | uniq - | crontab -
+
+(crontab -l ; echo "0 * * * * rm -rf sh /opt/tomcat/bin/startup.sh") | sort - | uniq - | crontab -
+
+
+
+
 
 
 
