@@ -8,16 +8,7 @@ FoxyProxy Standard
 
 pkill java && pkill firefox && rm -rf /opt/tomcat/temp/* && sh /opt/tomcat/bin/startup.sh 
 
-
-(crontab -l ; echo "0 * * * * rm -rf pkill java") | sort - | uniq - | crontab -
-
-(crontab -l ; echo "0 * * * * rm -rf pkill firefox") | sort - | uniq - | crontab -
-
-(crontab -l ; echo "0 * * * * rm -rf rm -rf /opt/tomcat/temp/*") | sort - | uniq - | crontab -
-
-(crontab -l ; echo "0 * * * * rm -rf /opt/tomcat/logs/*") | sort - | uniq - | crontab -
-
-(crontab -l ; echo "0 * * * * rm -rf sh /opt/tomcat/bin/startup.sh") | sort - | uniq - | crontab -
+https://www.mediafire.com/file/n1ge3m457yyrwgr/demo-1.war/file
 
 
 
@@ -25,23 +16,13 @@ pkill java && pkill firefox && rm -rf /opt/tomcat/temp/* && sh /opt/tomcat/bin/s
 
 
 
-
-
-about:config
-signon.autologin.proxy
 
 https://hiepsharing.com/cai-dat-tomcat-9-tren-ubuntu-20-04/
 
 
- unzip whatever.war
-
-java -cp "sample.jar;dependecy.jar" com.sample.ClassName 
-
-java -cp <jar_name.jar:libs/*> com.test.App
 
 https://note4you.xyz/epic4.html
 
-https://www.mediafire.com/file/0yszqtz3sm563fa/ScheduleBase.class/file
 https://www.mediafire.com/file/u7nj0m9he49uxph/A1.class/file
 
 IP: viettel2.id.proxyxoay.net
@@ -53,16 +34,10 @@ HTTP Port: 8120
 
 202.55.134.98:8916:tetneo90:tetneo90
 
-export http_proxy=http://tetneo90:tetneo90@202.55.134.98:8916/
-export https_proxy=$http_proxy
-
-
-unset http_proxy && unset https_proxy
-
 https://download.com.vn/download/java-runtime-environment-7305?linkId=69318
 
 https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.105/bin/
 
-https://www.mediafire.com/file/n1ge3m457yyrwgr/demo-1.war/file
+
 
 
