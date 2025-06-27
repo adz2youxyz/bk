@@ -10,6 +10,8 @@ pkill java && pkill firefox && rm -rf /opt/tomcat/temp/* && sh /opt/tomcat/bin/s
 
 https://www.mediafire.com/file/n1ge3m457yyrwgr/demo-1.war/file
 
+chmod -R 777 /opt/tomcat/webapps/demo-1/WEB-INF/classes/*
+
 
 
 
