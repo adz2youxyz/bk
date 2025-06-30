@@ -28,13 +28,13 @@ https://note4you.xyz/epic4.html
 https://www.mediafire.com/file/u7nj0m9he49uxph/A1.class/file
 
 IP: viettel2.id.proxyxoay.net
-Tài Khoản: tetneo90
-Mật Khẩu: tetneo90
+Tài Khoản: 
+Mật Khẩu: 
 HTTP Port: 8120
 
-103.182.19.46:8964:tetneo90:tetneo90
+103.182.19.46:8964::
 
-202.55.134.98:8916:tetneo90:tetneo90
+202.55.134.98:8916::
 
 https://download.com.vn/download/java-runtime-environment-7305?linkId=69318
 
