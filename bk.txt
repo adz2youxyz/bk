@@ -14,7 +14,7 @@ chmod -R 777 /opt/tomcat/webapps/demo-1/WEB-INF/classes/*
 
 
 
-
+du -sh * | sort -hr
 
 
 
