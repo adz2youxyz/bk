@@ -29,6 +29,8 @@ https://www.mediafire.com/file/u7nj0m9he49uxph/A1.class/file
 
 viettel1.id.proxyxoay.net:8292
 
+157.10.171.42:8073
+
 https://download.com.vn/download/java-runtime-environment-7305?linkId=69318
 
 https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.105/bin/
