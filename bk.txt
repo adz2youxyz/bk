@@ -1,6 +1,10 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
-(crontab -l ; echo "*/15 * * * * rm -rf /opt/tomcat/bin/core.*") | sort - | uniq - | crontab -
+
+
+
+
+https://mediafire.com/file/xgj5ngyx7loq1dg/demo-1.war/file
 
 
 sudo apt-get -y update && sudo apt-get -y install --only-upgrade firefox
@@ -35,7 +39,6 @@ viettel2.id.proxyxoay.net:8841
 
 viettel3.id.proxyxoay.net:8303
 
-vipvn4.m2proxy.com:8840
 https://download.com.vn/download/java-runtime-environment-7305?linkId=69318
 
 https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.105/bin/
