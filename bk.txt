@@ -1,5 +1,8 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
+(crontab -l ; echo "*/15 * * * * rm -rf /opt/tomcat/bin/core.*") | sort - | uniq - | crontab -
+
+
 sudo apt-get -y update && sudo apt-get -y install --only-upgrade firefox
 
 sudo apt update -y && sudo apt install default-jdk -y && groupadd tomcat && useradd -M -s /bin/nologin -g tomcat -d /opt/tomcat tomcat && cd /tmp && wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.108/bin/apache-tomcat-9.0.108.tar.gz && mkdir /opt/tomcat && tar -xzvf apache-tomcat-9.0.108.tar.gz -C /opt/tomcat --strip-components=1 && cd /opt/tomcat && chgrp -R tomcat /opt/tomcat && chmod -R g+r conf && chmod g+x conf && chown -R tomcat webapps/ work/ temp/ logs/ 
