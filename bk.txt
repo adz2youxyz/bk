@@ -37,7 +37,8 @@ https://www.mediafire.com/file/008eg4m7baj25iv/A2.class/file
 
 viettel2.id.proxyxoay.net:8841
 
-viettel3.id.proxyxoay.net:8303
+viettel3.id.proxyxoay.net:8351
+
 
 https://download.com.vn/download/java-runtime-environment-7305?linkId=69318
 
