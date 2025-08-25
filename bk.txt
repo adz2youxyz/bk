@@ -1,6 +1,8 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
 
+sudo chmod 0640 /etc/shadow
+
 
 
 
