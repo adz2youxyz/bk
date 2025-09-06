@@ -1,7 +1,10 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
 
-apt update -y && apt install -y firefox
+
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+
+sudo apt-get update && sudo apt-get install firefox
 
 
 sudo chmod 0640 /etc/shadow
