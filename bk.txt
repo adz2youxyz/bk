@@ -3,6 +3,7 @@ https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in
 vnpt2.id.proxyxoay.net:8788
 https://linkhay.xyz/vn88.html
 viettel5.id.proxyxoay.net:8740
+https://bestdailyxx.xyz/sexxx.html
 
 
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
