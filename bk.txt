@@ -1,5 +1,7 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
+vnpt2.id.proxyxoay.net:8788
+
 
 
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
